@@ -12,12 +12,12 @@ I started to learn Python during the COVID-19 pandemic, when the world was locke
 > **"Once you stop learning, you start dying"** - Albert Einstein
 
 ## What I'm working on 🔨
-- 🌱 I’m currently learning ReactJS for frontend work
-- Data structure and algorithms (the grind never stops)
+- 🌱 Learning ReactJS for frontend work
+- 💿 Data structure and algorithms (the grind never stops)
 
 ## My Interests🧠
-- Anything Python
-- Large Language Models
+- Anything Python🐍
+- Shotokan Karate
 
 <!--
 **cmsato09/cmsato09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
