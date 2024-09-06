@@ -2,7 +2,7 @@
 
 I'm a scientist-turned-software engineer 🧪💻 (when in Silicon Valley, do as the technologists do). My main focus is Fullstack and I'm continuosly learning and expanding my skills with all things software.
 
-While working at a battery company, I collaborated with contract programmers, providing feedback on the database interface and testing software that was central to my work. One thing I can't forget about is a response from one of those programmers. I would explain what we wanted and asked if it was possible and the response was always "Chris, **Anything is possible.**" And while that was true, it often took time time for a fix. As I worked with them, one thought kept coming back, "Why can't I code? Can't I do it?"
+While working at a battery company, I collaborated with contract programmers, providing feedback on the database interface and testing software that was central to my work. One thing I can't forget about is a response from one of those programmers. I would explain what we wanted and asked if it was possible and the response was always "Chris, **Anything is possible.**" And while that was true, it often took time for a fix and/or update. As I worked with them, one thought kept coming back, "Why can't I code? Can't I do it?"
 
 I started to learn Python during the COVID-19 pandemic, when the world was locked down and I was furloughed. You can code and learn about coding anywhere with internet connection compared to being stuck in a lab for an experiment. There's so much content out there on programming, so it was harder to figure out what to try, follow, and learn.
 
