@@ -13,7 +13,7 @@ I started to learn Python during the COVID-19 pandemic, when the world was locke
 
 ## What I'm working on 🔨
 - 🌱 Learning ReactJS for frontend work
-  - Started building my own ReactJS project
+  - Started building my own ReactJS project using my Streamlit app as a guide
 - Migrating to another cloud platform for my FastAPI project since the platform I'm currently using will shut down
 - 💿 Data structure and algorithms (the grind never stops)
 
