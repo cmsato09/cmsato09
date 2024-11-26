@@ -12,7 +12,7 @@ I started to learn Python during the COVID-19 pandemic, when the world was locke
 > **"Once you stop learning, you start dying"** - Albert Einstein
 
 ## Portfolio 🌐💻
-Go to [cmsato09.github.io](https://www.cmsato09.github.io) to see a quick explanation of the repositories pinned below. 
+Go to [cmsato09.github.io](cmsato09.github.io) to see a quick explanation of the repositories pinned below. 
 
 ## What I'm working on 🔨
 - 🌱 Learning ReactJS for frontend work
