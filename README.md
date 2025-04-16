@@ -15,15 +15,10 @@ I started to learn Python during the COVID-19 pandemic, when the world was locke
 Go to [cmsato09.github.io](https://cmsato09.github.io/) to see a quick explanation of the repositories pinned below. 
 
 ## What I'm working on 🔨
-- 🌱 Learning ReactJS for frontend work
-  - ReactJS project is functioning. Need to learn how to use the linter and create tests.
-- NextJS and Typescript
-- Learning OpenAPI Specifications (OAS)
-- LLM prompt engineering (the next thing you probably need to get good at after years of google search queries)
-- uv package manager
-- 💿 Data structure and algorithms (the grind never stops)
+- NextJS and Typescript Tutorial
+- Blogpost on uv package manager and ruff formatter/linter
+- 💿 Data structure and algorithms (Always practice fundamentals)
 
 ## My Interests🧠
 - Anything Python🐍
-- Agentic RAG
 - Shotokan Karate
